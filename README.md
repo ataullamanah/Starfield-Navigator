@@ -51,7 +51,7 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request.
 
 ## Sponsor
-Support the development of Starfield Navigator by becoming a [GitHub Sponsor](https://github.com/sponsors/yourusername). Your support helps maintain and improve this project!
+Support the development of Starfield Navigator by becoming a [GitHub Sponsor](https://github.com/sponsors/ataullamanah). Your support helps maintain and improve this project!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
